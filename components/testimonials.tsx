@@ -10,7 +10,7 @@ export default function Testimonials() {
       name: "田中 健太",
       avatar: "/placeholder.svg?height=100&width=100",
       rating: 5,
-      text: "ゴールデンカジノは他のオンラインカジノとは一線を画しています。ゲームの種類が豊富で、特にライブディーラーゲームは臨場感があって最高です。初回ボーナスも太っ腹で、すぐに楽しめました。",
+      text: "カルカジどっとこむ！？なにそれ！！",
     },
     {
       id: 2,
