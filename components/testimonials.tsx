@@ -7,24 +7,24 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: "田中 健太",
+      name: "かるろ",
       avatar: "/placeholder.svg?height=100&width=100",
       rating: 5,
-      text: "カルカジどっとこむ！？なにそれ！！",
+      text: "「カルカジどっとこむ」で最新情報をチェックしよう！",
     },
     {
       id: 2,
-      name: "佐藤 美咲",
+      name: "calro",
       avatar: "/placeholder.svg?height=100&width=100",
       rating: 5,
-      text: "初めてのオンラインカジノでしたが、とても使いやすく安心して遊べました。カスタマーサポートの対応も素晴らしく、質問にすぐに答えてくれます。入出金も簡単で、ストレスなく楽しめています。",
+      text: "calcasiどっとこむは厳選したサイトのみを紹介！",
     },
     {
       id: 3,
-      name: "鈴木 大輔",
+      name: "カルロ",
       avatar: "/placeholder.svg?height=100&width=100",
       rating: 4,
-      text: "スロットの種類が豊富で、毎日新しいゲームを試せるのが楽しいです。ボーナスも定期的にもらえるので、長く遊べるのが魅力。モバイル対応も完璧で外出先でも楽しめます。",
+      text: "かるかじドットコムで入金不要ボーナスをGETしよう！。",
     },
   ]
 
@@ -46,7 +46,7 @@ export default function Testimonials() {
               <span className="bg-gradient-to-r from-amber-300 to-yellow-500 text-transparent bg-clip-text">声</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              実際にゴールデンカジノをご利用いただいたお客様からの声をご紹介します
+              カルカジどっとこむ管理人からの声をご紹介します
             </p>
           </div>
         </ScrollAnimation>
