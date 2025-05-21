@@ -97,7 +97,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center">
             <Shimmer interval={5000}>
               <span className="text-2xl font-bold bg-gradient-to-r from-amber-300 to-yellow-500 text-transparent bg-clip-text">
-                GOLDEN CASINO
+                CalCasiどっとこむ
               </span>
             </Shimmer>
           </Link>
