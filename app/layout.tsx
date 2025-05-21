@@ -8,9 +8,9 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "ゴールデンカジノ | 最高級のオンラインカジノ体験",
+  title: "calcasi-カルカジ- | オンカジ最新ニュース情報局",
   description:
-    "豪華な雰囲気と興奮に満ちたゲームで、忘れられない時間をお過ごしください。初回登録で¥10,000のボーナスをプレゼント！",
+    "オンカジの「今」を知るならカルカジ！最速で情報をお届け。初回登録で¥10,000のボーナスをプレゼント！",
     generator: 'v0.dev'
 }
 
